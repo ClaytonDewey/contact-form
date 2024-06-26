@@ -1,7 +1,9 @@
+import { Contact } from '.';
+
 const App = () => {
   return (
     <div>
-      <h1>Contact</h1>
+      <Contact />
     </div>
   );
 };
